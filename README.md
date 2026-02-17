@@ -78,7 +78,7 @@ ip route 192.168.0.0 255.255.0.0 Null0
 - Basic networking knowledge (subnetting, routing protocols)
 
 ### Usage
-1. Download `Final_arch.pkt`
+1. Download `Final arch.pkt`
 2. Open in Cisco Packet Tracer
 3. Explore the configurations:
    - View OSPF neighbors: `show ip ospf neighbor`
